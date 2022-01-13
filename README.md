@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python 3
 - 💞️ I’m looking to collaborate on strong foundations in coding
-- 📫 How to reach me ...
+- 📫 How to reach me > k_karaivanov@abv.bg
 
 <!---
 dinamitrii/dinamitrii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
